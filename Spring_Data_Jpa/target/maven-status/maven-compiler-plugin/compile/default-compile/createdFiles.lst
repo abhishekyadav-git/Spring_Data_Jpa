@@ -1,0 +1,6 @@
+com\example\springdatajpa\entity\Movie.class
+com\example\springdatajpa\runner\CrudRepoTestRunner.class
+com\example\springdatajpa\SpringDataJpaApplication.class
+com\example\springdatajpa\repository\IMovie_Repo.class
+com\example\springdatajpa\service\MovieService.class
+com\example\springdatajpa\service\MovieServiceImpl.class
